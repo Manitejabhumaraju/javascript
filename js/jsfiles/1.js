@@ -1,0 +1,16 @@
+console.time('1.js')
+console.time(18)
+virat ="my hero "
+console.log("mani teja")
+console.log("virat",18)
+console.log(true)
+console.timeEnd(18)
+console.log([9,18,27],[3,6,9])
+console.log({mani:'virat',teja:18})
+console.table({mani:'virat',teja:18})
+console.warn("i am mani teja")
+// console.clear()
+console.timeEnd('1.js')
+age=1000
+console.assert(age<189,'this is not possible')
+console.error("this is error")
